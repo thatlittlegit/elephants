@@ -1,6 +1,5 @@
 {{ partial "header.html" . }}
 
-<section id=content>
     <ul class=posts_listing>
       {{ range .Data.Pages.ByPublishDate.Reverse }}
         <div id="posts">
@@ -13,6 +12,5 @@
         </div>
       {{ end }}
     </ul>
-  </section>
 
 {{ partial "footer.html" . }}

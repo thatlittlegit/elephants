@@ -1,21 +1,23 @@
-# Elephants
-
-A minimal Hugo theme using the Ubuntu font.
+# Hippopotamus 
+A minimal Hugo theme with minimal CSS. A fork of Benny Mai's [Elephants](https://gitlab.com/meibenny/elephants)
+theme.
 
 ## Features
 * No JavaScript
 * High Contrast
+* Minimal JavaScript
 
 ## Installation
 In the folder of your Hugo site, run:
 ```
-    git submodule add https://gitlab.com/meibenny/elephants.git themes/elephants
+    git submodule add https://github.com/thatlittlegit/hugo-theme-hippopotamus.git themes/hippopotamus
 ```
 
 ## Dedication
-To [Evelyn](https://www.evelynyeung.com) - the world's most extraordinary woman.  
-You've helped me through thick and thin.  
-There's no way I would have gotten so far without you.
+The original *Elephants* theme was dedicated as follows: 
+> To [Evelyn](https://www.evelynyeung.com) - the world's most extraordinary woman.  
+> You've helped me through thick and thin.  
+> There's no way I would have gotten so far without you.
 
 ## License
-Released under the MIT License
+Released under the MIT License.
