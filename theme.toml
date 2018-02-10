@@ -1,12 +1,12 @@
-name = "Elephants"
+name = "Hippopotamus"
 license = "MIT"
-licenselink = "https://github.com/meibenny/elephants/blob/master/LICENSE.md"
-description = "Minimal theme using the Ubuntu font."
-homepage = "https://gitlab.com/meibenny/elephants"
+licenselink = "https://github.com/thatlittlegit/hugo-theme-hippopotamus/blob/master/LICENSE.md"
+description = "Minimal theme with minimal CSS."
+homepage = "https://github.com/thatlittlegit/hugo-theme-hippopotamus"
 tags = ["blog"]
 features = ["blog"]
 min_version = "0.30.2"
 
 [author]
-  name = "Benny Mei"
-  homepage = "https://gitlab.com/meibenny/elephants"
+  name = "thatlittlegit"
+  homepage = "https://github.com/thatlittlegit/hugo-theme-hippopotamus"

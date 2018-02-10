@@ -1,5 +1,5 @@
 # Hippopotamus 
-A minimal Hugo theme with minimal CSS. A fork of Benny Mai's [Elephants](https://gitlab.com/meibenny/elephants)
+A minimal Hugo theme with minimal CSS. A fork of Benny Mai's [Hippopotamus](https://gitlab.com/meibenny/hippopotamus)
 theme.
 
 ## Features
@@ -14,7 +14,7 @@ In the folder of your Hugo site, run:
 ```
 
 ## Dedication
-The original *Elephants* theme was dedicated as follows: 
+The original *Hippopotamus* theme was dedicated as follows: 
 > To [Evelyn](https://www.evelynyeung.com) - the world's most extraordinary woman.  
 > You've helped me through thick and thin.  
 > There's no way I would have gotten so far without you.
