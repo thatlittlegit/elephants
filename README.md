@@ -10,7 +10,7 @@ theme.
 ## Installation
 In the folder of your Hugo site, run:
 ```
-    git submodule add https://github.com/thatlittlegit/hugo-theme-hippopotamus.git themes/hippopotamus
+	git submodule add https://github.com/thatlittlegit/hugo-theme-hippopotamus.git themes/hippopotamus
 ```
 
 ## Dedication

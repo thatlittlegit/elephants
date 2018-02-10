@@ -7,11 +7,11 @@
 
 a#page-title {
 	color: #000;
-    text-decoration: none;
+	text-decoration: none;
 }
 
 #page-title a:hover, .post a:hover {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 
 .post {

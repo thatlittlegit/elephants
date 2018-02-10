@@ -4,4 +4,4 @@ title = "Example Blog"
 theme = "hippopotamus"
 
 [params]
-    sitename = "hippopotamus"
+	sitename = "hippopotamus"
