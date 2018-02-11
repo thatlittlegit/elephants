@@ -1,5 +1,9 @@
 {{ partial "header.html" . }}
-
+	{{ range $key, $element := .Site.Params.links }}
+	[
+	<a href="{{ $element }}">{{ $key }}</a>
+	]
+	{{ end }}
 	<ul class=posts_listing>
 	  {{ range .Data.Pages.ByPublishDate.Reverse }}
 		<div id="posts">
